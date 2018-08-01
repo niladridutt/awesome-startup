@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 Thanks to [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit for his [post](https://www.reddit.com/r/Entrepreneur/comments/93e2m2/100_free_start_up_resources/). 
 
-=============
+---------------------------------------------------------
 
 # Contents
 - [Awesome Start Up](#Awesome-Start-Up)
@@ -38,7 +38,7 @@ Thanks to [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit for 
   - [Website](#Website)
   - [Writing / Blogging](#Writing-/-Blogging)
   
- ===========================
+-------------------------
  
 # A/B Tests & Growth Hacking
 - Petit Hacks: Acquisition, retention, & revenue hacks used by companies.
