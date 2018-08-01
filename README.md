@@ -2,11 +2,12 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 Thanks to [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit for his [post](https://www.reddit.com/r/Entrepreneur/comments/93e2m2/100_free_start_up_resources/). 
 
-----------------------------------------------------------------------------------------------------------------------------
+================================
+
 # Contents
-- [Awesome Start Up](#Awesome Start Up)
+- [Awesome Start Up](#Awesome-Start-Up)
   - [A/B Tests & Growth Hacking](#A/B-Tests-&-Growth-Hacking)
-  - [Avoid Distraction](#avoid-distraction)
+  - [Avoid Distraction](#Avoid-Distraction)
   - [Background Sounds to Focus](#Background-Sounds-to-Focus)
   - [Branding & Logo](#Branding-&-Logo)
   - [Build Together](#Build-Together)
@@ -17,15 +18,28 @@ Thanks to [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit for 
   - [Developer & Code Related](#Developer-&-Code-Related)
   - [Digital Nomads and Remote Working](#Digital-Nomads-and-Remote-Working)
   - [Discover Tools & Startups](#Discover-Tools-&-Startups)
-  - [Input](#input)
-  - [Input](#input)
-  - [Input](#input)
-  - [Input](#input)
-  - [Input](#input)
-  - [Input](#input)
-  - [Input](#input)
+  - [Email Management](#Email-Management)
+  - [Find (Trending) Content (Ideas)](#Find-(Trending)-Content-(Ideas))
+  - [Guides and Courses](#Guides-and-Courses)
+  - [Idea Management](#Idea-Management)
+  - [Image Editors](#Image-Editors)
+  - [Image Optimizers](#Image-Optimizers)
+  - [Invoice](#Invoice)
+  - [Learn](#Learn)
+  - [Legal Docs](#Legal-Docs)
+  - [Miscellaneous](#Miscellaneous)
+  - [Newsletters that Don't Suck](#Newsletters-that-Don't-Suck)
+  - [Organize & Collaborate](#Organize-&-Collaborate)
+  - [SEO + Website Analyzer](#SEO-+-Website-Analyzer)
+  - [Social Media + Community Management](#Social-Media-+-Community-Management)
+  - [Stock Photography](#Stock-Photography)
+  - [Typography](#Typography)
+  - [Useful Tools](#Useful-Tools)
+  - [Website](#Website)
+  - [Writing / Blogging](#Writing-/-Blogging)
   
-  
+ ===========================
+ 
 # A/B Tests & Growth Hacking
 - Petit Hacks: Acquisition, retention, & revenue hacks used by companies.
 - Optimizely: One optimization platform for websites and mobile apps.
