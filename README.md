@@ -26,7 +26,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
   - [Image Editors](#Image-Editors)
   - [Image Optimizers](#Image-Optimizers)
   - [Invoice](#Invoice)
-  - [Learn](#Learn)
+  - [Learn](#learn)
   - [Legal Docs](#Legal-Docs)
   - [Miscellaneous](#Miscellaneous)
   - [Newsletters that Don't Suck](#Newsletters-that-Don't-Suck)
