@@ -1,8 +1,32 @@
-# Awesome Start Up [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Start Up
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 Thanks to [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit for his [post](https://www.reddit.com/r/Entrepreneur/comments/93e2m2/100_free_start_up_resources/). 
 
 ----------------------------------------------------------------------------------------------------------------------------
-
+# Contents
+- [Awesome Start Up](#Awesome Start Up)
+  - [A/B Tests & Growth Hacking](#A/B Tests & Growth Hacking)
+  - [AI](#ai)
+  - [Avoid Distraction](#Avoid Distraction)
+  - [Background Sounds to Focus](#Background Sounds to Focus)
+  - [Branding & Logo](#Branding & Logo)
+  - [Build Together](#Build Together)
+  - [Business / Project Name Generator](#Business / Project Name Generator)
+  - [Color Pickers](#Color Pickers)
+  - [Customer Service & Surveys](#Customer Service & Surveys)
+  - [Design Resources](#Design Resources)
+  - [Developer & Code Related](#Developer & Code Related)
+  - [Digital Nomads and Remote Working](#Digital Nomads and Remote Working)
+  - [Discover Tools & Startups](#Discover Tools & Startups)
+  - [Input](#input)
+  - [Input](#input)
+  - [Input](#input)
+  - [Input](#input)
+  - [Input](#input)
+  - [Input](#input)
+  - [Input](#input)
+  
+  
 # A/B Tests & Growth Hacking
 - Petit Hacks: Acquisition, retention, & revenue hacks used by companies.
 - Optimizely: One optimization platform for websites and mobile apps.
