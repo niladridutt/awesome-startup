@@ -16,9 +16,9 @@ Suggestions and contributions are always welcome; make sure you read the [contri
   - [Color Pickers](#color-pickers)
   - [Customer Service & Surveys](#customer-service-surveys)
   - [Design Resources](#design-resources)
-  - [Developer & Code Related](#developer-code-related)
+  - [Developer and Code Related](#developer-and-code-related)
   - [Digital Nomads and Remote Working](#digital-nomads-and-remote-working)
-  - [Discover Tools & Startups](#discover-tools-startups)
+  - [Discover Tools and Startups](#discover-tools-and-startups)
   - [Email Management](#email-management)
   - [Find (Trending) Content (Ideas)](#find-trending-content-ideas)
   - [Guides and Courses](#guides-and-courses)
@@ -30,14 +30,14 @@ Suggestions and contributions are always welcome; make sure you read the [contri
   - [Legal Docs](#legal-docs)
   - [Miscellaneous](#miscellaneous)
   - [Newsletters that Don't Suck](#newsletters-that-dont-suck)
-  - [Organize & Collaborate](#organize-collaborate)
-  - [SEO + Website Analyzer](#seo-website-analyzer)
-  - [Social Media + Community Management](#social-media-community-management)
+  - [Organize and Collaborate](#organize-and-collaborate)
+  - [SEO and Website Analyzer](#seo-and-website-analyzer)
+  - [Social Media and Community Management](#social-media-and-community-management)
   - [Stock Photography](#stock-photography)
   - [Typography](#typography)
   - [Useful Tools](#useful-tools)
   - [Website](#website)
-  - [Writing / Blogging](#writing-blogging)
+  - [Writing / Blogging](#writing)
 
 <a name="ab"></a>
 # A/B Tests & Growth Hacking
@@ -72,6 +72,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - CoFoundersLab: Find a co-founder in any city, any industry.
 - Founder2be: Find a co-founder for your startup.
 
+<a name="business project name generator"></a>
 # Business / Project Name Generator
 - The Name App: Find an available name for your brilliant idea.
 - Naminum: Discover a perfect company name.
@@ -150,7 +151,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - SketchAppResources: Free graphical resources.
 - Placeit Freebies: Freebies delivered right to your Dropbox.
 
-# Developer & Code Related
+# Developer and Code Related
 - Hive: First free unlimited cloud service in the world.
 - GitHub: Build software better, together.
 - BitBucket: Git and Mercurial code management for teams.
@@ -185,7 +186,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - What’s It Like: Helping travelers figure out WHEN to go.
 - Nomad Jobs: The best remote jobs at the best startups.
 
-# Discover Tools & Startups
+# Discover Tools and Startups
 - Product Hunt: Curation of the best new products, every day.
 - Angellist: Where the world meets startups.
 - Beta List: Discover and get early access to tomorrow’s startups.
@@ -212,6 +213,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Gmass - Send mass emails in Gmail (up to 2000 emails/day). Gmail = way better deliverability than using an email marketing platform. Link it to a spreadsheet to personalize names and phrases for every contact.
 - Art of Emails - Tons of actually unique email templates for cold emails, outreach to influencers, sales follow ups, etc.
 
+<a name="find-trending-content-ideas"></a>
 # Find (Trending) Content (Ideas)
 - Portent: Content idea generator.
 - Google Trends: A new way of displaying trending searches.
@@ -317,6 +319,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Startup Equity Calculator: Figure out how much equity to grant new hires in seconds.
 - Picatic : Free event registration platform to host events.
 
+<a name="newsletters that dont suck"></a>
 # Newsletters that Don't Suck
 - Email1K: A free 30 day course to double your email list.
 - Design for Hackers: 12 weeks of design learning, right in your inbox.
@@ -327,7 +330,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - UX Newsletter: Tales of researching, designing, and building.
 - UX Design Weekly: Best user experience design links every week.
 
-# Organize & Collaborate
+# Organize and Collaborate
 - Trello: Keeps track of everything.
 - Evernote: The workspace for your life’s work.
 - Dropbox: Free space up to 2GB.
@@ -348,7 +351,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Asana: Teamwork without email.
 - GoToMeeting: Online meetings without the hassle.
 
-# SEO + Website Analyzer
+# SEO and Website Analyzer
 - Open Site Explorer: A comprehensive tool for link analysis.
 - Ahrefs: Site explorer & backlink checker.
 - Quick Sprout: Complete analysis of your website.
@@ -369,7 +372,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Shopify E-commerce Report: Get your free Ecommerce report.
 - W3C validator: Easy-to-use markup validation service.
 
-# Social Media + Community Management
+# Social Media and Community Management
 - WriteRack: The best way to tweetstorm.
 - Spruce: Make Twitter ready images in seconds.
 - Click To Tweet: Get more shares on your content.
@@ -463,6 +466,8 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Bootstrap Zero: The largest open-source, free Bootstrap template collection.
 - Landing Harbor: Promote your mobile app with a free landing page.
 
+
+<a name="writing"></a>
 # Writing / Blogging
 - Hemingway: Hemingway App makes your writing bold and clear.
 - Grammarly: Finds & corrects mistakes of your writing.Medium: Everyone’s stories and ideas.
