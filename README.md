@@ -2,6 +2,8 @@
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 Thanks to [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit for his [post](https://www.reddit.com/r/Entrepreneur/comments/93e2m2/100_free_start_up_resources/). 
 
+Suggestions and contributions are always welcome! Make sure you read the [contribution guidelines](https://github.com/niladridutt/awesome-startup/blob/master/CONTRIBUTING.md) before submitting a pull request.
+
 ---------------------------------------------------------
 
 # Contents
