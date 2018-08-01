@@ -7,20 +7,20 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 
 # Contents
 - [Awesome Start Up](#awesome-start-up)
-  - [A/B Tests & Growth Hacking](#a/b-tests-&-growth-hacking)
+  - [A/B Tests & Growth Hacking](#ab)
   - [Avoid Distraction](#avoid-distraction)
   - [Background Sounds to Focus](#background-sounds-to-focus)
-  - [Branding & Logo](#branding-&-logo)
+  - [Branding and Logo](#branding-and-logo)
   - [Build Together](#build-together)
-  - [Business / Project Name Generator](#business-/-project-name-generator)
+  - [Business / Project Name Generator](#business-project-name-generator)
   - [Color Pickers](#color-pickers)
-  - [Customer Service & Surveys](#customer-service-&-surveys)
+  - [Customer Service & Surveys](#customer-service-surveys)
   - [Design Resources](#design-resources)
-  - [Developer & Code Related](#developer-&-code-related)
+  - [Developer & Code Related](#developer-code-related)
   - [Digital Nomads and Remote Working](#digital-nomads-and-remote-working)
-  - [Discover Tools & Startups](#discover-tools-&-startups)
+  - [Discover Tools & Startups](#discover-tools-startups)
   - [Email Management](#email-management)
-  - [Find (Trending) Content (Ideas)](#find-(trending)-content-(ideas))
+  - [Find (Trending) Content (Ideas)](#find-trending-content-ideas)
   - [Guides and Courses](#guides-and-courses)
   - [Idea Management](#idea-management)
   - [Image Editors](#image-editors)
@@ -29,16 +29,17 @@ Suggestions and contributions are always welcome; make sure you read the [contri
   - [Learn](#learn)
   - [Legal Docs](#legal-docs)
   - [Miscellaneous](#miscellaneous)
-  - [Newsletters that Don't Suck](#newsletters-that-don't-suck)
-  - [Organize & Collaborate](#organize-&-collaborate)
-  - [SEO + Website Analyzer](#seo-+-website-analyzer)
-  - [Social Media + Community Management](#social-media-+-community-management)
+  - [Newsletters that Don't Suck](#newsletters-that-dont-suck)
+  - [Organize & Collaborate](#organize-collaborate)
+  - [SEO + Website Analyzer](#seo-website-analyzer)
+  - [Social Media + Community Management](#social-media-community-management)
   - [Stock Photography](#stock-photography)
   - [Typography](#typography)
   - [Useful Tools](#useful-tools)
   - [Website](#website)
-  - [Writing / Blogging](#writing-/-blogging)
- 
+  - [Writing / Blogging](#writing-blogging)
+
+<a name="ab"></a>
 # A/B Tests & Growth Hacking
 - Petit Hacks: Acquisition, retention, & revenue hacks used by companies.
 - Optimizely: One optimization platform for websites and mobile apps.
@@ -60,7 +61,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Sonics: Free packs of UI sounds and sound effects delivered to your inbox every month.
 - Deep Focus: Spotify’s famous playlist to focus.
 
-# Branding & Logo
+# Branding and Logo
 - Logaster: Professional online logo maker & generator.
 - Hipster Logo Generator: It’s Hip, It’s Current, It’s Stylish, It’s Hipster.
 - Squarespace Free Logo: You can download free low-res version for free.
