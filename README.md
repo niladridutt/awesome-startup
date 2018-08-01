@@ -14,7 +14,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
   - [Build Together](#build-together)
   - [Business / Project Name Generator](#business-project-name-generator)
   - [Color Pickers](#color-pickers)
-  - [Customer Service & Surveys](#customer-service-surveys)
+  - [Customer Service and Surveys](#customer-service-and-surveys)
   - [Design Resources](#design-resources)
   - [Developer and Code Related](#developer-and-code-related)
   - [Digital Nomads and Remote Working](#digital-nomads-and-remote-working)
@@ -72,7 +72,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - CoFoundersLab: Find a co-founder in any city, any industry.
 - Founder2be: Find a co-founder for your startup.
 
-<a name="business project name generator"></a>
+<a name="business-project-name-generator"></a>
 # Business / Project Name Generator
 - The Name App: Find an available name for your brilliant idea.
 - Naminum: Discover a perfect company name.
@@ -122,7 +122,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - The Best Designs: The best of web design.Agile Designers: Best resources for designers & developers.
 - Niice: A search engine with taste.
 
-# Customer Service & Surveys
+# Customer Service and Surveys
 - Typeform: Free beautiful online survey & form builder.
 - Tally: Create polls in no time.
 - Free Survey Creator: Create a survey. Get user feedback for free.
