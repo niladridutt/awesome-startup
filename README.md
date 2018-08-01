@@ -5,7 +5,7 @@ Thanks to [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit for 
 Suggestions and contributions are always welcome; make sure you read the [contribution guidelines](https://github.com/niladridutt/awesome-startup/blob/master/CONTRIBUTING.md) before submitting a pull request.
 
 
-# Table of Contents
+# Contents
 - [Awesome Start Up](#Awesome-Start-Up)
   - [A/B Tests & Growth Hacking](#A/B-Tests-&-Growth-Hacking)
   - [Avoid Distraction](#Avoid-Distraction)
