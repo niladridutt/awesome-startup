@@ -6,8 +6,7 @@ Thanks to [/u/fluffhead1](https://www.reddit.com/user/fluffhead1) on Reddit for 
 # Contents
 - [Awesome Start Up](#Awesome Start Up)
   - [A/B Tests & Growth Hacking](#A/B Tests & Growth Hacking)
-  - [AI](#ai)
-  - [Avoid Distraction](#Avoid Distraction)
+  - [Avoid Distraction](#avoid distraction)
   - [Background Sounds to Focus](#Background Sounds to Focus)
   - [Branding & Logo](#Branding & Logo)
   - [Build Together](#Build Together)
