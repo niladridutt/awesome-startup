@@ -350,6 +350,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Any.do: Get things done with your team.
 - Asana: Teamwork without email.
 - GoToMeeting: Online meetings without the hassle.
+- Taskade: Create instant task lists, kanban boards, collaborative notes, and video chat.
 
 # SEO and Website Analyzer
 - Open Site Explorer: A comprehensive tool for link analysis.
