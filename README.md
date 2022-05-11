@@ -152,6 +152,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Placeit Freebies: Freebies delivered right to your Dropbox.
 
 # Developer and Code Related
+- [Argonaut](https://argonaut.dev/?utm_source=niladridutt-awesome-startup&utm_medium=rsrc): Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. Free tier allows unlimited apps and deployments for 5 environments and 2 users.
 - Hive: First free unlimited cloud service in the world.
 - GitHub: Build software better, together.
 - BitBucket: Git and Mercurial code management for teams.
