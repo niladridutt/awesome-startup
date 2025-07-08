@@ -185,6 +185,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Nomadlist: The best cities to live and work remotely.
 - What’s It Like: Helping travelers figure out WHEN to go.
 - Nomad Jobs: The best remote jobs at the best startups.
+- Study Near Me: Directory to find laptop friendly cafes to work remote at for the day anywhere in the US.
 
 # Discover Tools and Startups
 - Product Hunt: Curation of the best new products, every day.
