@@ -8,6 +8,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 # Contents
 - [Awesome Start Up](#awesome-start-up)
   - [A/B Tests & Growth Hacking](#ab)
+  - [AI](#AI)
   - [Avoid Distraction](#avoid-distraction)
   - [Background Sounds to Focus](#background-sounds-to-focus)
   - [Branding and Logo](#branding-and-logo)
@@ -45,6 +46,10 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Optimizely: One optimization platform for websites and mobile apps.
 - Hello Bar: Tool for A/B testing different CTAs & power words.
 - GrowthHackers: Unlocking growth. Together.
+
+<a name="ai"></a>
+# AI
+- [Aquin](https://www.aquin.app/): Your hyper-personalized Vibe Coded LLM, train fast, chat with it at any time with your own data
 
 # Avoid Distraction
 - Self Control: Mac: free application to help you avoid distracting websites.
