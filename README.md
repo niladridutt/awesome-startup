@@ -39,6 +39,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
   - [Website](#website)
   - [Writing / Blogging](#writing)
 
+- [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
 <a name="ab"></a>
 # A/B Tests & Growth Hacking
 - Petit Hacks: Acquisition, retention, & revenue hacks used by companies.
