@@ -392,6 +392,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Digg Digg: Your all in one share buttons plugin.
 - Disqus: Build a community of active readers & commenters.
 - App Review Monitor: App reviews delivered to Slack and your inbox.
+- GetAppNiche: App Store intelligence for indie iOS founders to research niches, competitors, revenue estimates, keywords, ads, and reviews.
 - Presskit Generator: Generate a Press Kit for your iOS App for free.
 - Free Survey Creator: Create a survey. Get user feedback for free.
 
