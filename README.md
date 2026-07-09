@@ -318,6 +318,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Pitcherific: Pitcherific helps you create, train, and improve your pitch.
 - Startup Equity Calculator: Figure out how much equity to grant new hires in seconds.
 - Picatic : Free event registration platform to host events.
+- [Calcrux](https://calcrux.com): Free calculators for startup burn rate, runway, equity dilution, and unit economics — No-signup.
 
 <a name="newsletters that dont suck"></a>
 # Newsletters that Don't Suck
