@@ -451,6 +451,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 - Typekit: A limited collection of fonts to use on a website or in applications.
 
 # Useful Tools
+- [SmartBizCalc](https://smartbizcalc.com/): 360+ free calculators for startup founders — break-even, employee cost, S-corp tax savings, LLC vs S-corp comparison, and payroll estimates.
 - UI Names: Generate random names for use in designs and mockups.
 - UI Faces: Find and generate sample avatars for user interfaces.
 - Copy Paste Character: Click to copy.
