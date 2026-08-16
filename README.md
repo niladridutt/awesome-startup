@@ -255,6 +255,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 # Idea Management
 - Experiment Board: Test your startup idea without wasting time or money.
 - Germ.io: Get from idea to execution.
+- [IdeaHunter](https://ideahunter.today): AI research for demand-backed app and micro-SaaS ideas.
 - Skitch: Your ideas become reality faster.
 
 # Image Editors
