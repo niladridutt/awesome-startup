@@ -254,6 +254,7 @@ Suggestions and contributions are always welcome; make sure you read the [contri
 
 # Idea Management
 - Experiment Board: Test your startup idea without wasting time or money.
+- EarlyLore: Validate product ideas against real competitors, demand, and entry angles before building. https://earlylore.com/
 - Germ.io: Get from idea to execution.
 - Skitch: Your ideas become reality faster.
 
